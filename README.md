@@ -20,10 +20,6 @@ Study at King Mongkut's Institute of Technology Ladkrabang (แผน ข --ย�
 > 14217103 HUMAN RESOURCE MANAGEMENT
   
 
-</details>
-<details>
-<summary><b>Year 2023</b></summary>
-
 ```
   Term 2
 ```
@@ -52,9 +48,6 @@ Study at King Mongkut's Institute of Technology Ladkrabang (แผน ข --ย�
 
 > 14217602 THESIS
   
-</details>
-<details>
-<summary><b>Year 2024</b></summary>
 
 ```
   Term 2
